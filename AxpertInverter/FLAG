@@ -1,0 +1,613 @@
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=00:41 ac_freq=50,ac_va=437,ac_volt=230,ac_watt=340,batt_capacity=75,batt_charge_amps=29,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.4,pv_volts=368.9,pv_watts=898,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=36,time="2023-03-08T16:00:41.306617" 1678291241306617000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=59:41 ac_freq=50,ac_va=437,ac_volt=230,ac_watt=337,batt_capacity=75,batt_charge_amps=27,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.3,pv_volts=353.7,pv_watts=828,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=36,time="2023-03-08T15:59:41.306629" 1678291181306629000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=58:41 ac_freq=50,ac_va=437,ac_volt=230.3,ac_watt=343,batt_capacity=76,batt_charge_amps=24,batt_discharge_amps=0,batt_volt=50.4,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.1,pv_volts=363.2,pv_watts=782,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:58:41.306638" 1678291121306638000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=57:41 ac_freq=50,ac_va=436,ac_volt=230.1,ac_watt=336,batt_capacity=76,batt_charge_amps=22,batt_discharge_amps=0,batt_volt=50.4,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=1.9,pv_volts=366.7,pv_watts=728,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:57:41.306643" 1678291061306643000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=56:41 ac_freq=50,ac_va=483,ac_volt=230.3,ac_watt=376,batt_capacity=76,batt_charge_amps=21,batt_discharge_amps=0,batt_volt=50.4,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=397,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.1,pv_volts=342.6,pv_watts=748,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=36,time="2023-03-08T15:56:41.306649" 1678291001306649000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=55:41 ac_freq=50,ac_va=482,ac_volt=230,ac_watt=361,batt_capacity=76,batt_charge_amps=18,batt_discharge_amps=0,batt_volt=50.4,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=1.7,pv_volts=357.7,pv_watts=640,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:55:41.306654" 1678290941306654000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=54:41 ac_freq=50,ac_va=437,ac_volt=229.8,ac_watt=339,batt_capacity=76,batt_charge_amps=52,batt_discharge_amps=0,batt_volt=50.7,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=420,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=3.8,pv_volts=406.4,pv_watts=1558,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:54:41.306660" 1678290881306660000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=53:41 ac_freq=50,ac_va=436,ac_volt=229.9,ac_watt=328,batt_capacity=76,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.1,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=426,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.4,pv_volts=396.1,pv_watts=2161,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=33,time="2023-03-08T15:53:41.306664" 1678290821306664000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=52:41 ac_freq=50,ac_va=460,ac_volt=230.1,ac_watt=345,batt_capacity=76,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=426,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.4,pv_volts=394.8,pv_watts=2165,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:52:41.306669" 1678290761306669000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=51:41 ac_freq=50,ac_va=437,ac_volt=230,ac_watt=337,batt_capacity=77,batt_charge_amps=30,batt_discharge_amps=0,batt_volt=50.6,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=399,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.3,pv_volts=384.4,pv_watts=912,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:51:41.306680" 1678290701306680000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=50:41 ac_freq=50,ac_va=459,ac_volt=229.9,ac_watt=337,batt_capacity=77,batt_charge_amps=32,batt_discharge_amps=0,batt_volt=50.6,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=399,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.6,pv_volts=373.2,pv_watts=973,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:50:41.306685" 1678290641306685000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=49:41 ac_freq=50,ac_va=437,ac_volt=230,ac_watt=329,batt_capacity=77,batt_charge_amps=37,batt_discharge_amps=0,batt_volt=50.6,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=402,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=3.2,pv_volts=366.1,pv_watts=1177,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=36,time="2023-03-08T15:49:41.306690" 1678290581306690000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=48:41 ac_freq=50,ac_va=437,ac_volt=230,ac_watt=332,batt_capacity=77,batt_charge_amps=27,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.4,pv_volts=355.8,pv_watts=858,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:48:41.306695" 1678290521306695000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=47:41 ac_freq=50,ac_va=482,ac_volt=229.7,ac_watt=355,batt_capacity=77,batt_charge_amps=26,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.2,pv_volts=364.3,pv_watts=816,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:47:41.306705" 1678290461306705000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=46:41 ac_freq=50,ac_va=505,ac_volt=229.6,ac_watt=378,batt_capacity=77,batt_charge_amps=25,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.2,pv_volts=361.5,pv_watts=802,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:46:41.306709" 1678290401306709000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=45:41 ac_freq=50,ac_va=529,ac_volt=230.4,ac_watt=388,batt_capacity=78,batt_charge_amps=30,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.7,pv_volts=375.2,pv_watts=1041,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:45:41.306714" 1678290341306714000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=44:41 ac_freq=50,ac_va=483,ac_volt=230.1,ac_watt=354,batt_capacity=78,batt_charge_amps=60,batt_discharge_amps=0,batt_volt=50.9,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=401,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6,pv_volts=383.3,pv_watts=2306,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:44:41.306719" 1678290281306719000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=43:41 ac_freq=50,ac_va=529,ac_volt=230,ac_watt=393,batt_capacity=78,batt_charge_amps=69,batt_discharge_amps=0,batt_volt=51,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=402,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=7.8,pv_volts=157.7,pv_watts=1240,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=34,time="2023-03-08T15:43:41.306723" 1678290221306723000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=42:41 ac_freq=50,ac_va=459,ac_volt=229.8,ac_watt=360,batt_capacity=79,batt_charge_amps=45,batt_discharge_amps=0,batt_volt=50.8,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=401,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=4.9,pv_volts=382.4,pv_watts=1896,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=35,time="2023-03-08T15:42:41.306729" 1678290161306729000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=41:41 ac_freq=50,ac_va=504,ac_volt=229.5,ac_watt=393,batt_capacity=79,batt_charge_amps=45,batt_discharge_amps=0,batt_volt=50.7,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=400,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.2,pv_volts=167.3,pv_watts=885,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=37,time="2023-03-08T15:41:41.306735" 1678290101306735000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=40:41 ac_freq=50,ac_va=506,ac_volt=230.4,ac_watt=391,batt_capacity=79,batt_charge_amps=19,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=3.5,pv_volts=187.3,pv_watts=660,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=37,time="2023-03-08T15:40:41.306740" 1678290041306740000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=39:41 ac_freq=50,ac_va=529,ac_volt=230.3,ac_watt=413,batt_capacity=80,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=429,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.3,pv_volts=399.7,pv_watts=2146,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=36,time="2023-03-08T15:39:41.306745" 1678289981306745000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=38:41 ac_freq=50,ac_va=483,ac_volt=230.2,ac_watt=374,batt_capacity=81,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.6,pv_volts=389.8,pv_watts=2220,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=37,time="2023-03-08T15:38:41.306750" 1678289921306750000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=37:41 ac_freq=50,ac_va=483,ac_volt=230.1,ac_watt=369,batt_capacity=81,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.6,pv_volts=389.7,pv_watts=2220,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=37,time="2023-03-08T15:37:41.306755" 1678289861306755000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=36:41 ac_freq=50,ac_va=505,ac_volt=229.8,ac_watt=375,batt_capacity=82,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.6,pv_volts=391.1,pv_watts=2217,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=38,time="2023-03-08T15:36:41.306759" 1678289801306759000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=35:41 ac_freq=50,ac_va=505,ac_volt=229.7,ac_watt=375,batt_capacity=82,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.9,pv_volts=378.5,pv_watts=2236,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=38,time="2023-03-08T15:35:41.306764" 1678289741306764000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=34:41 ac_freq=50,ac_va=483,ac_volt=230,ac_watt=367,batt_capacity=82,batt_charge_amps=40,batt_discharge_amps=0,batt_volt=50.8,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=401,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=4.2,pv_volts=284.9,pv_watts=1213,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:34:41.306769" 1678289681306769000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=33:41 ac_freq=50,ac_va=483,ac_volt=230.1,ac_watt=368,batt_capacity=83,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=425,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.8,pv_volts=387.4,pv_watts=2260,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:33:41.306777" 1678289621306777000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=32:41 ac_freq=50,ac_va=483,ac_volt=230.3,ac_watt=370,batt_capacity=83,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=425,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.7,pv_volts=390.7,pv_watts=2256,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:32:41.306781" 1678289561306781000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=31:41 ac_freq=50,ac_va=483,ac_volt=230.4,ac_watt=367,batt_capacity=83,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.7,pv_volts=390.1,pv_watts=2254,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:31:41.306786" 1678289501306786000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=30:41 ac_freq=50,ac_va=460,ac_volt=230.1,ac_watt=353,batt_capacity=84,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=425,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.7,pv_volts=390.4,pv_watts=2259,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:30:41.306791" 1678289441306791000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=29:41 ac_freq=50,ac_va=460,ac_volt=230.2,ac_watt=360,batt_capacity=84,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.7,pv_volts=390.2,pv_watts=2251,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:29:41.306796" 1678289381306796000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=28:41 ac_freq=50,ac_va=459,ac_volt=229.5,ac_watt=345,batt_capacity=84,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.7,pv_volts=389.7,pv_watts=2248,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:28:41.306800" 1678289321306800000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=27:41 ac_freq=50,ac_va=460,ac_volt=230.2,ac_watt=359,batt_capacity=85,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.8,pv_volts=388,pv_watts=2254,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=39,time="2023-03-08T15:27:41.306805" 1678289261306805000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=26:41 ac_freq=50,ac_va=459,ac_volt=229.9,ac_watt=358,batt_capacity=85,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.8,pv_volts=387.4,pv_watts=2259,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:26:41.306811" 1678289201306811000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=25:41 ac_freq=50,ac_va=459,ac_volt=229.9,ac_watt=357,batt_capacity=86,batt_charge_amps=6,batt_discharge_amps=0,batt_volt=50.5,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=398,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=2.8,pv_volts=114.2,pv_watts=325,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:25:41.306815" 1678289141306815000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=24:41 ac_freq=50,ac_va=460,ac_volt=230.2,ac_watt=359,batt_capacity=87,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.3,pv_volts=394.8,pv_watts=2122,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:24:41.306820" 1678289081306820000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=23:41 ac_freq=50,ac_va=459,ac_volt=229.9,ac_watt=342,batt_capacity=87,batt_charge_amps=26,batt_discharge_amps=0,batt_volt=50.7,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=400,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=4.9,pv_volts=156.8,pv_watts=769,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:23:41.306825" 1678289021306825000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=22:41 ac_freq=50,ac_va=460,ac_volt=230.1,ac_watt=355,batt_capacity=87,batt_charge_amps=79,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6,pv_volts=379.5,pv_watts=2306,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:22:41.306830" 1678288961306830000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=21:41 ac_freq=50,ac_va=461,ac_volt=229.6,ac_watt=346,batt_capacity=87,batt_charge_amps=66,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=404,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6.2,pv_volts=281.2,pv_watts=1771,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:21:41.306834" 1678288901306834000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=20:41 ac_freq=50,ac_va=507,ac_volt=230.5,ac_watt=392,batt_capacity=88,batt_charge_amps=37,batt_discharge_amps=0,batt_volt=50.9,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=401,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6.5,pv_volts=173.2,pv_watts=1130,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:20:41.306838" 1678288841306838000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=19:41 ac_freq=50,ac_va=506,ac_volt=230,ac_watt=394,batt_capacity=88,batt_charge_amps=47,batt_discharge_amps=0,batt_volt=51,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=402,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=3.4,pv_volts=371.4,pv_watts=1284,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:19:41.306848" 1678288781306848000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=18:41 ac_freq=50,ac_va=506,ac_volt=230.1,ac_watt=395,batt_capacity=88,batt_charge_amps=54,batt_discharge_amps=0,batt_volt=50.9,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=401,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=7,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=4.4,pv_volts=340.8,pv_watts=1506,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=43,time="2023-03-08T15:18:41.306852" 1678288721306852000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=17:41 ac_freq=50,ac_va=481,ac_volt=229.4,ac_watt=380,batt_capacity=88,batt_charge_amps=45,batt_discharge_amps=0,batt_volt=50.9,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=401,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6.9,pv_volts=213.6,pv_watts=1474,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:17:41.306857" 1678288661306857000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=16:41 ac_freq=50,ac_va=483,ac_volt=229.8,ac_watt=376,batt_capacity=88,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=424,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.8,pv_volts=383.5,pv_watts=2228,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=40,time="2023-03-08T15:16:41.306863" 1678288601306863000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=15:41 ac_freq=50,ac_va=483,ac_volt=229.8,ac_watt=381,batt_capacity=88,batt_charge_amps=45,batt_discharge_amps=0,batt_volt=51,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=402,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6,pv_volts=225.7,pv_watts=1368,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:15:41.306868" 1678288541306868000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=14:41 ac_freq=50,ac_va=483,ac_volt=230.2,ac_watt=365,batt_capacity=88,batt_charge_amps=73,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=403,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.9,pv_volts=349.2,pv_watts=2094,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:14:41.306872" 1678288481306872000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=13:41 ac_freq=50,ac_va=436,ac_volt=229.9,ac_watt=330,batt_capacity=88,batt_charge_amps=80,batt_discharge_amps=0,batt_volt=51.4,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=425,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=6,pv_volts=375.1,pv_watts=2253,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:13:41.306877" 1678288421306877000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=12:41 ac_freq=50,ac_va=437,ac_volt=230.2,ac_watt=334,batt_capacity=88,batt_charge_amps=66,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=404,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.9,pv_volts=314,pv_watts=1866,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:12:41.306882" 1678288361306882000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=11:41 ac_freq=50,ac_va=436,ac_volt=230.1,ac_watt=347,batt_capacity=88,batt_charge_amps=73,batt_discharge_amps=0,batt_volt=51.3,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=404,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=5.8,pv_volts=354.3,pv_watts=2059,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:11:41.306886" 1678288301306886000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+>>> Request: 'POST http://localhost:8086/api/v2/write?org=VestAssist&bucket=AxpertInverter&precision=ns'
+>>> Content-Encoding: identity
+>>> Content-Type: text/plain
+>>> Accept: application/json
+>>> Authorization: ***
+>>> User-Agent: influxdb-client-python/1.36.1
+>>> Body: b'AxpertInverter,FLAG=10:41 ac_freq=50,ac_va=437,ac_volt=230,ac_watt=343,batt_capacity=88,batt_charge_amps=63,batt_discharge_amps=0,batt_volt=51.2,batt_volt_scc=0,batt_volt_to_steady=false,bus_volt=403,charge_source="solar_charging",configuration_changed=false,grid_freq=0,grid_volt=0,load_percent=6,load_status=true,mask_b="00",mask_c="00",mask_d="010",pv_amps=4.8,pv_volts=367.4,pv_watts=1768,raw_status="00010110",sbu_priority_version=false,ssc_firmware_updated=false,temp=41,time="2023-03-08T15:10:41.306892" 1678288241306892000'
+<<< Response: 204
+<<< X-Influxdb-Build: OSS
+<<< X-Influxdb-Version: v2.6.1
+<<< Date: Wed, 08 Mar 2023 16:00:41 GMT
+<<< Body: 
+52
